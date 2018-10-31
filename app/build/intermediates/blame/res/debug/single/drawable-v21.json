@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\cagles\\AndroidStudioProjects\\SongDetail\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_hide_password.xml",
+        "source": "C:\\Users\\cagles\\.android\\build-cache\\f7e071b2fa0421396747674a5cb5b7dd8d1490c9\\output\\res\\drawable-v21\\avd_hide_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\cagles\\AndroidStudioProjects\\SongDetail\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\cagles\\.android\\build-cache\\f7e071b2fa0421396747674a5cb5b7dd8d1490c9\\output\\res\\drawable-v21\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\cagles\\AndroidStudioProjects\\SongDetail\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\cagles\\.android\\build-cache\\4e27740462f79f87a47f48a387b1ddbdc383523d\\output\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\cagles\\AndroidStudioProjects\\SongDetail\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\cagles\\.android\\build-cache\\c1285a1309df0235fc6934bbefff06b91fdb3cf2\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\cagles\\AndroidStudioProjects\\SongDetail\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\cagles\\.android\\build-cache\\c1285a1309df0235fc6934bbefff06b91fdb3cf2\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\cagles\\AndroidStudioProjects\\SongDetail\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_password_eye.xml",
+        "source": "C:\\Users\\cagles\\.android\\build-cache\\f7e071b2fa0421396747674a5cb5b7dd8d1490c9\\output\\res\\drawable-v21\\design_password_eye.xml"
+    },
+    {
+        "merged": "C:\\Users\\cagles\\AndroidStudioProjects\\SongDetail\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_show_password.xml",
+        "source": "C:\\Users\\cagles\\.android\\build-cache\\f7e071b2fa0421396747674a5cb5b7dd8d1490c9\\output\\res\\drawable-v21\\avd_show_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\cagles\\AndroidStudioProjects\\SongDetail\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\cagles\\.android\\build-cache\\c1285a1309df0235fc6934bbefff06b91fdb3cf2\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    }
+]

@@ -1,0 +1,114 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\cagles\AndroidStudioProjects\SongDetail\app\src\main\AndroidManifest.xml:2:1-33:12
+	package
+		ADDED from C:\Users\cagles\AndroidStudioProjects\SongDetail\app\src\main\AndroidManifest.xml:3:5-45
+		INJECTED from C:\Users\cagles\AndroidStudioProjects\SongDetail\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\cagles\AndroidStudioProjects\SongDetail\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\cagles\AndroidStudioProjects\SongDetail\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\cagles\AndroidStudioProjects\SongDetail\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\cagles\AndroidStudioProjects\SongDetail\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\cagles\AndroidStudioProjects\SongDetail\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\cagles\AndroidStudioProjects\SongDetail\app\src\main\AndroidManifest.xml
+application
+ADDED from C:\Users\cagles\AndroidStudioProjects\SongDetail\app\src\main\AndroidManifest.xml:5:5-31:19
+MERGED from [com.android.support:design:26.0.1] C:\Users\cagles\.android\build-cache\f7e071b2fa0421396747674a5cb5b7dd8d1490c9\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.0.1] C:\Users\cagles\.android\build-cache\c1285a1309df0235fc6934bbefff06b91fdb3cf2\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.0.1] C:\Users\cagles\.android\build-cache\65e01c9e933e112a6ce2075ce14ba0236eaff8e0\output\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.0.1] C:\Users\cagles\.android\build-cache\6ab96b868cc4370a884b6b8ce0ab720671b1ca01\output\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.0.1] C:\Users\cagles\.android\build-cache\65f7150b3cb60899c549cbc12fc0899281f9307d\output\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.0.1] C:\Users\cagles\.android\build-cache\d0ffdfac6834b2fc7848d3dad3d12e25b54a83de\output\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.0.1] C:\Users\cagles\.android\build-cache\0aea313acc93fec4d3f6f4f0c37d4cee199381ed\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.0.1] C:\Users\cagles\.android\build-cache\83f4d0bb9b5dde7301c5ac316fb828ed294809eb\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.0.1] C:\Users\cagles\.android\build-cache\061eecc67283343e310d032751acf9fcd9397cda\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.0.1] C:\Users\cagles\.android\build-cache\5debbbee843d671c366a83b4f8af77040d311478\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.0.1] C:\Users\cagles\.android\build-cache\c25d41f9b5cf2d30b191dc1ec8c00fc7f8fb83eb\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.0.1] C:\Users\cagles\.android\build-cache\4e27740462f79f87a47f48a387b1ddbdc383523d\output\AndroidManifest.xml:25:5-29:19
+	android:label
+		ADDED from C:\Users\cagles\AndroidStudioProjects\SongDetail\app\src\main\AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from C:\Users\cagles\AndroidStudioProjects\SongDetail\app\src\main\AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from C:\Users\cagles\AndroidStudioProjects\SongDetail\app\src\main\AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from C:\Users\cagles\AndroidStudioProjects\SongDetail\app\src\main\AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from C:\Users\cagles\AndroidStudioProjects\SongDetail\app\src\main\AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from C:\Users\cagles\AndroidStudioProjects\SongDetail\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.android.songdetail.MainActivity
+ADDED from C:\Users\cagles\AndroidStudioProjects\SongDetail\app\src\main\AndroidManifest.xml:12:9-21:20
+	android:label
+		ADDED from C:\Users\cagles\AndroidStudioProjects\SongDetail\app\src\main\AndroidManifest.xml:14:13-45
+	android:theme
+		ADDED from C:\Users\cagles\AndroidStudioProjects\SongDetail\app\src\main\AndroidManifest.xml:15:13-56
+	android:name
+		ADDED from C:\Users\cagles\AndroidStudioProjects\SongDetail\app\src\main\AndroidManifest.xml:13:13-71
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\cagles\AndroidStudioProjects\SongDetail\app\src\main\AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\cagles\AndroidStudioProjects\SongDetail\app\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from C:\Users\cagles\AndroidStudioProjects\SongDetail\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\cagles\AndroidStudioProjects\SongDetail\app\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from C:\Users\cagles\AndroidStudioProjects\SongDetail\app\src\main\AndroidManifest.xml:19:27-74
+activity#com.example.android.songdetail.SongDetailActivity
+ADDED from C:\Users\cagles\AndroidStudioProjects\SongDetail\app\src\main\AndroidManifest.xml:22:9-30:20
+	android:label
+		ADDED from C:\Users\cagles\AndroidStudioProjects\SongDetail\app\src\main\AndroidManifest.xml:24:13-54
+	android:parentActivityName
+		ADDED from C:\Users\cagles\AndroidStudioProjects\SongDetail\app\src\main\AndroidManifest.xml:25:13-85
+	android:theme
+		ADDED from C:\Users\cagles\AndroidStudioProjects\SongDetail\app\src\main\AndroidManifest.xml:26:13-56
+	android:name
+		ADDED from C:\Users\cagles\AndroidStudioProjects\SongDetail\app\src\main\AndroidManifest.xml:23:13-77
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from C:\Users\cagles\AndroidStudioProjects\SongDetail\app\src\main\AndroidManifest.xml:27:13-29:79
+	android:value
+		ADDED from C:\Users\cagles\AndroidStudioProjects\SongDetail\app\src\main\AndroidManifest.xml:29:17-76
+	android:name
+		ADDED from C:\Users\cagles\AndroidStudioProjects\SongDetail\app\src\main\AndroidManifest.xml:28:17-63
+uses-sdk
+INJECTED from C:\Users\cagles\AndroidStudioProjects\SongDetail\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:26.0.1] C:\Users\cagles\.android\build-cache\f7e071b2fa0421396747674a5cb5b7dd8d1490c9\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.0.1] C:\Users\cagles\.android\build-cache\c1285a1309df0235fc6934bbefff06b91fdb3cf2\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:26.0.1] C:\Users\cagles\.android\build-cache\65e01c9e933e112a6ce2075ce14ba0236eaff8e0\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.1] C:\Users\cagles\.android\build-cache\6ab96b868cc4370a884b6b8ce0ab720671b1ca01\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.0.1] C:\Users\cagles\.android\build-cache\65f7150b3cb60899c549cbc12fc0899281f9307d\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.0.1] C:\Users\cagles\.android\build-cache\d0ffdfac6834b2fc7848d3dad3d12e25b54a83de\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.0.1] C:\Users\cagles\.android\build-cache\0aea313acc93fec4d3f6f4f0c37d4cee199381ed\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.1] C:\Users\cagles\.android\build-cache\83f4d0bb9b5dde7301c5ac316fb828ed294809eb\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.1] C:\Users\cagles\.android\build-cache\061eecc67283343e310d032751acf9fcd9397cda\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.1] C:\Users\cagles\.android\build-cache\5debbbee843d671c366a83b4f8af77040d311478\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.1] C:\Users\cagles\.android\build-cache\c25d41f9b5cf2d30b191dc1ec8c00fc7f8fb83eb\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.0.1] C:\Users\cagles\.android\build-cache\4e27740462f79f87a47f48a387b1ddbdc383523d\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.0.1] C:\Users\cagles\.android\build-cache\f7e071b2fa0421396747674a5cb5b7dd8d1490c9\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\cagles\AndroidStudioProjects\SongDetail\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\cagles\AndroidStudioProjects\SongDetail\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\cagles\AndroidStudioProjects\SongDetail\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\cagles\AndroidStudioProjects\SongDetail\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.0.1] C:\Users\cagles\.android\build-cache\f7e071b2fa0421396747674a5cb5b7dd8d1490c9\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.0.1] C:\Users\cagles\.android\build-cache\c1285a1309df0235fc6934bbefff06b91fdb3cf2\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.0.1] C:\Users\cagles\.android\build-cache\65e01c9e933e112a6ce2075ce14ba0236eaff8e0\output\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.0.1] C:\Users\cagles\.android\build-cache\6ab96b868cc4370a884b6b8ce0ab720671b1ca01\output\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.0.1] C:\Users\cagles\.android\build-cache\65f7150b3cb60899c549cbc12fc0899281f9307d\output\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.0.1] C:\Users\cagles\.android\build-cache\d0ffdfac6834b2fc7848d3dad3d12e25b54a83de\output\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.0.1] C:\Users\cagles\.android\build-cache\0aea313acc93fec4d3f6f4f0c37d4cee199381ed\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.0.1] C:\Users\cagles\.android\build-cache\83f4d0bb9b5dde7301c5ac316fb828ed294809eb\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.0.1] C:\Users\cagles\.android\build-cache\061eecc67283343e310d032751acf9fcd9397cda\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.0.1] C:\Users\cagles\.android\build-cache\5debbbee843d671c366a83b4f8af77040d311478\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.0.1] C:\Users\cagles\.android\build-cache\c25d41f9b5cf2d30b191dc1ec8c00fc7f8fb83eb\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.0.1] C:\Users\cagles\.android\build-cache\4e27740462f79f87a47f48a387b1ddbdc383523d\output\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:design:26.0.1] C:\Users\cagles\.android\build-cache\f7e071b2fa0421396747674a5cb5b7dd8d1490c9\output\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:design:26.0.1] C:\Users\cagles\.android\build-cache\f7e071b2fa0421396747674a5cb5b7dd8d1490c9\output\AndroidManifest.xml:27:13-51

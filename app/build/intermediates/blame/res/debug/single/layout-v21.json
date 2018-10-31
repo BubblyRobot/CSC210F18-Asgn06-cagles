@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\cagles\\AndroidStudioProjects\\SongDetail\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\cagles\\.android\\build-cache\\4e27740462f79f87a47f48a387b1ddbdc383523d\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\cagles\\AndroidStudioProjects\\SongDetail\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\cagles\\.android\\build-cache\\4e27740462f79f87a47f48a387b1ddbdc383523d\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\cagles\\AndroidStudioProjects\\SongDetail\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\cagles\\.android\\build-cache\\4e27740462f79f87a47f48a387b1ddbdc383523d\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\cagles\\AndroidStudioProjects\\SongDetail\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\cagles\\.android\\build-cache\\4e27740462f79f87a47f48a387b1ddbdc383523d\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    }
+]

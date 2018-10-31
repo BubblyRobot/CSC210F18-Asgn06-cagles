@@ -1,0 +1,7 @@
+#Tue Oct 30 23:18:13 EDT 2018
+base.0=C\:\\Users\\cagles\\AndroidStudioProjects\\SongDetail\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_f3c4f71c4f26133651a1fd454d2e974001302159
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\cagles\\AndroidStudioProjects\\SongDetail\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_165a7ea3ff275d8f2601c5d12a664335e82687e4\\classes.dex
+base.1=C\:\\Users\\cagles\\AndroidStudioProjects\\SongDetail\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_165a7ea3ff275d8f2601c5d12a664335e82687e4
+file.0=C\:\\Users\\cagles\\AndroidStudioProjects\\SongDetail\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_f3c4f71c4f26133651a1fd454d2e974001302159\\classes.dex
